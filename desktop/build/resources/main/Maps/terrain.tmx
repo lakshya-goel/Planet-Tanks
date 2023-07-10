@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="3">
+ <tileset firstgid="1" source="../../../new_tl.tsx"/>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="2" x="5.4623" y="440.626">
+   <polygon points="0,0 65.5477,30.9531 123.812,45.5192 172.973,61.9061 222.134,89.2176 271.294,92.8592 305.889,92.8592 347.767,78.293 406.031,76.4723 446.088,56.4438 524.381,50.9815 564.438,29.1323 611.778,0 717.383,-12.7454 777.468,-9.10384 804.78,-27.3115 872.148,-50.9815 928.592,-50.9815 955.903,-63.7269 955.903,-440.626 -5.4623,-442.447"/>
+  </object>
+ </objectgroup>
+</map>
